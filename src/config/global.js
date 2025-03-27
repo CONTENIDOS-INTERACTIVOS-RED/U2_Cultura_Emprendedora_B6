@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '2',
+    tituloUnidad: 'Planeación Proceso Emprendedor',
   },
   menuPrincipal: {
     menu: [
@@ -118,26 +118,135 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Varios, A. (2019). Fortalecimiento empresarial: capacitación y acompañamiento al espíritu emprendedor: (1 ed.). Universidad Mariana. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/224604',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Salcedo Camacho, P. D. (2021). Programa emprendedor: ( ed.). Universidad Privada del Valle.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/191127',
+    },
+    {
+      referencia:
+        'Cardella, G. M. (Il.), Hernández-Sánchez, B. R. (Il.) & Sánchez-García, J. C. (Il.). (2024). El contexto personal y la educación emprendedora: (1 ed.). Dykinson. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/271735',
+    },
+    {
+      referencia:
+        'Cuenca, R. Reátegui, L. & Rentería, M. (2022). El sujeto emprendedor: imaginarios de éxito y representaciones sobre el trabajo: (1 ed.). IEP Ediciones. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/273878',
+    },
+    {
+      referencia:
+        'Fernández Aguado, J. (2023). Entrevista a Aristóteles: filosofía para líderes y emprendedores: (1 ed.). LID Editorial España. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/269746',
+    },
+    {
+      referencia:
+        'Roca Pacheco, E. D. (Coord.). (2023). Estrategias para fortalecer el ecosistema emprendedor sostenible: (1 ed.). Editorial Exced. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/272415',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Análisis de mercado',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'evaluación del tamaño, tendencias y comportamiento del mercado para determinar la viabilidad de un negocio.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Automatización de procesos',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'uso de tecnología e inteligencia artificial para optimizar y agilizar tareas repetitivas dentro de una empresa.',
+    },
+    {
+      termino: '<em>Big Data</em>',
+      significado:
+        'conjunto de datos masivos y complejos que requieren procesamiento avanzado para extraer información relevante.',
+    },
+    {
+      termino: 'Capital de riesgo:',
+      significado:
+        ' financiamiento proporcionado por inversionistas a startups con alto potencial de crecimiento a cambio de participación en la empresa.',
+    },
+    {
+      termino: 'Canales de distribución:',
+      significado:
+        'medios a través de los cuales una empresa entrega su producto o servicio a los clientes.',
+    },
+    {
+      termino: '<em>Crowdfunding</em>',
+      significado:
+        ' método de financiamiento colectivo donde múltiples personas contribuyen económicamente a un proyecto o empresa',
+    },
+    {
+      termino: 'Estructura de costos',
+      significado:
+        'clasificación de los gastos fijos y variables asociados a la operación de un negocio.',
+    },
+    {
+      termino: 'Factores de éxito del emprendimiento',
+      significado:
+        'elementos clave como visión, planificación estratégica, gestión financiera y adaptación al cambio que contribuyen al éxito de un negocio.',
+    },
+    {
+      termino: 'Factores de fracaso del emprendimiento',
+      significado:
+        'razones que pueden llevar a la quiebra de un negocio, como mala administración, falta de investigación de mercado y ausencia de innovación.',
+    },
+    {
+      termino: 'Flujo de caja',
+      significado:
+        'movimiento de ingresos y egresos dentro de una empresa que determina su liquidez y capacidad operativa.',
+    },
+    {
+      termino: 'Gestión financiera',
+      significado:
+        'administración eficiente de los recursos económicos para garantizar la sostenibilidad y crecimiento de un negocio.',
+    },
+    {
+      termino: 'Innovación empresarial',
+      significado:
+        'aplicación de nuevas ideas, tecnologías o procesos para mejorar productos, servicios o modelos de negocio.',
+    },
+    {
+      termino: 'Inteligencia Artificial (IA)',
+      significado:
+        'tecnología que permite a las máquinas aprender y tomar decisiones basadas en datos sin intervención humana.',
+    },
+    {
+      termino: 'Investigación de mercado',
+      significado:
+        'proceso de recopilación y análisis de información sobre consumidores y competidores para tomar decisiones estratégicas.',
+    },
+    {
+      termino: 'Modelo <em>Canvas</em>',
+      significado:
+        'herramienta visual que permite estructurar un modelo de negocio a través de nueve bloques fundamentales.',
+    },
+    {
+      termino: 'Propuesta de valor',
+      significado:
+        'conjunto de beneficios que un producto o servicio ofrece a los clientes y lo diferencia de la competencia.',
+    },
+    {
+      termino: 'Recursos clave',
+      significado:
+        'activos esenciales, como tecnología, talento humano y propiedad intelectual, necesarios para la operación de un negocio',
+    },
+    {
+      termino: 'Segmentación de clientes',
+      significado:
+        'división del mercado en grupos específicos de consumidores con características y necesidades similares.',
+    },
+    {
+      termino: 'Sostenibilidad empresarial',
+      significado:
+        'capacidad de una empresa para operar y crecer de manera rentable, socialmente responsable y respetuosa con el medioambiente.',
+    },
+    {
+      termino: 'Transformación digital',
+      significado:
+        'integración de tecnología en todos los aspectos de un negocio para mejorar su eficiencia y competitividad.',
     },
   ],
 }
