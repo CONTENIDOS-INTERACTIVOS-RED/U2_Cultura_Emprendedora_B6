@@ -15,8 +15,8 @@
     #t_1_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.1] Factores esenciales para la planeación del proceso emprendedor
 
-    .row.mb-5
-      .col-lg-2.order-2
+    .row.mb-5.justify-content-center
+      .col-md-6.col-lg-2.order-2
         figure
           img(src="@/assets/curso/tema1/2.png", data-aos="zoom-in")
       .col-lg-10.order-1.mb-3.mb-lg-0
@@ -137,10 +137,10 @@
         h2(data-aos="fade-left") Estructura del modelo de negocio y estrategia empresarial
 
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/8.png", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         p(data-aos="fade-left") Una vez comprendido el mercado, es esencial diseñar un modelo de negocio sólido que garantice sostenibilidad y crecimiento. Para ello, se deben implementar estrategias como:
     
         .bg-color-3.px-4.pt-4(data-aos="fade-left")
@@ -164,7 +164,7 @@
     .bg-full-width-2.bg-color-1.mb-5
       .px-4.px-md-5.pb-md-3
         .row.align-items-center
-          .col-lg-5
+          .col-lg-5.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/10.svg").mx-auto
           .col-lg-7
             p La sostenibilidad financiera es clave para el éxito del negocio. Dentro de la planificación económica se deben considerar aspectos como:
@@ -229,8 +229,8 @@
     #t_1_4.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.4] Modelo Canvas y su aplicación en los negocios
 
-    .row.mb-5.align-items-center
-      .col-lg-2.mb-3.mb-lg-0
+    .row.mb-5.align-items-center.justify-content-center
+      .col-md-6.col-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/14.png", data-aos="zoom-in")
       .col-lg-10
@@ -331,7 +331,7 @@
           p(numero="4" titulo="Socios clave") ¿Quiénes son los aliados estratégicos? Nike trabaja con fabricantes de calzado en Asia y distribuidores globales.
           p(numero="5" titulo="Estructura de costos") ¿Cuáles son los costos fijos y variables? Airbnb reduce costos al no poseer propiedades y centrarse en la gestión de reservas.
     
-    .bg-full-width.bg-color-2
+    .bg-full-width.bg-color-2.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
           .col-lg-auto
