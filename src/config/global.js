@@ -15,20 +15,40 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Planeación del proceso emprendedor en el siglo XXI',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Factores esenciales para la planeación del proceso emprendedor',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Herramientas de IA para predecir comportamientos y personalización de ofertas',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Factores de éxito y fracaso del emprendedor',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Modelo Canvas y su aplicación en los negocios',
+            hash: 't_1_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Contexto emprendedor y análisis del mercado',
+            hash: 't_1_5',
           },
         ],
       },
